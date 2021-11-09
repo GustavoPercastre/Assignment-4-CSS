@@ -6,43 +6,54 @@
 	font-family: 'Sanchez', serif;
 */
 
-body {
+body 
+{
 	font-size: 16px;
 	font-family: 'Sanchez', serif;
 }
 
-h1, h2, h3 {
+h1, h2, h3 
+{
 	font-family: 'Rakkas', cursive;
 }
 
-aside {
+aside 
+{
 	
 }
 
-footer {
+footer 
+{
 
 }
 
-header {
+header 
+{
 
 }
 
-img {
+img 
+{
 	max-width: 75%;
 }
 
-main {
-
+main 
+{
+	width: 75%;
 }
 
-nav {
-
+nav 
+{
+	width: 15%;
+	float: left;
 }
 
-#copyright {
+#copyright 
+{
 	font-size: 80%;
 }
 
-#main-container {
-
+#main-container 
+{
+	
 }
