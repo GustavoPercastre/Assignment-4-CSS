@@ -19,17 +19,19 @@ h1, h2, h3
 
 aside 
 {
-	
+	width: 35%;
+	float: left;
+	margin-left: 2em;
 }
 
 footer 
 {
-
+	clear: both;
 }
 
 header 
 {
-
+	margin-bottom: 5em;
 }
 
 img 
@@ -39,7 +41,8 @@ img
 
 main 
 {
-	width: 75%;
+	width: 45%;
+	float: left;
 }
 
 nav 
@@ -55,5 +58,5 @@ nav
 
 #main-container 
 {
-	
+	margin-left: 1em;
 }
